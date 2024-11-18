@@ -1,15 +1,3 @@
-+ Framework:
-    + understand promises
-    + Documentation:
-        [ ] SPA
-        [ ] Routing (Default/Nested routes)
-        [ ] config.json
-        [ ] HTTP
-        [ ] if / loop tags
-        [ ] Typescript/Javascript support
-        [ ] scss / css support (metion global css for global variables)
-        [ ] use react tutorials: https://react.dev/learn/tutorial-tic-tac-toe
-
 + Trancedence:
     [*] Landing Page
     [ ] sign in:
@@ -32,7 +20,3 @@
 
 + Resources
     + animation: https://wpdean.com/css-hover-effects/
-
-+ Planning:
-    + 19 Nov: complete user page / user setting page
-    + 20 Nov: 
